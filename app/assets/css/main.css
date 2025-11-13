@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@utility sectionStream {
+        @apply flex flex-col border-gray-100 overflow-hidden gap-4 p-5 shadow-md rounded-md border-2;
+}
